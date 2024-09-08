@@ -1,3 +1,4 @@
 # saniwalunj
-my first use of github
-Author-saniwalunj
+My first use of Github
+<br>
+Author-Sani Walunj
